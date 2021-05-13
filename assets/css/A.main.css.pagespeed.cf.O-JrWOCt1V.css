@@ -971,6 +971,28 @@ a.phone {
     background-size: cover;
 }
 
+.square-project-detail-3 {
+    opacity: 0.9;
+    z-index: -11;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    position: absolute;
+    background: url(../img/work-detail/3.png) no-repeat center center;
+    background-size: cover;
+}
+
+.square-project-detail-4 {
+    opacity: 0.9;
+    z-index: -11;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    position: absolute;
+    background: url(../img/work-detail/4-2.png) no-repeat center center;
+    background-size: cover;
+}
+
 .title-single-page {
     height: 300px;
     width: 50%;
